@@ -6,10 +6,10 @@
 <div align="left">
 
 ```
-unknownpaws@github ~ % whoami
+edwardodp@github ~ % whoami
 Hey, I'm Edward 👋
 
-unknownpaws@github ~ % uname -a
+edwardodp@github ~ % uname -a
 Computer Science @ University of Warwick 🎓
 Passionate about algorithmic trading, esoteric languages, and building cool things
 ```
