@@ -26,7 +26,7 @@ Passionate about algorithmic trading, esoteric languages, and building cool thin
 
 ---
 
-### Recent Project
+### Project Spotlight
 
 <p align="center">
   <a href="https://github.com/UnknownPaws/haskell-atob">
